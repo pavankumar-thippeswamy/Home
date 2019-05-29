@@ -1,5 +1,5 @@
 ---
-title: "Archive Layout with Content"
+title: "see this"
 layout: archive
 permalink: /archive-layout-with-content/
 ---
@@ -24,7 +24,7 @@ Single line blockquote:
 
 > Quotes are cool.
 
-## Tables
+## making Tables
 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
