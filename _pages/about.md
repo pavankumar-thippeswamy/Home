@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-you are ok
+Are we able to see the things without a word
 
 A data-driven personal website
 ======
