@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* Change
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MTech in Renewable Energy Engineering and Management, 2017
+* B.E. in Mechanical Engineering, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2017-present: Research Assistant
+  * TERI School of Adavnced Studies, New Delhi
+  * Duties included: Development of Latent Heat Storage system for Air Drying applications, Thermal charcterization of materials, devlopment of PCM's for low temperature applications.
+  * Supervisor: Dr Som Mondal
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan- Jun 2017: Research Intern
+  * Ceneter of Excellence in Thermal Energy Storage, TERI SAS.
+  * Thesis: " Experimental study of Air to PCM heat excahnger"
+  * Supervisor: Dr Som Mondal
   
 Skills
 ======
